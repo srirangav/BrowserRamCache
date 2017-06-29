@@ -6,7 +6,8 @@ PGM_REL  = 0.1.3
 WORKDIR  = work
 FILES    = ramcache.pl \
            org.calalum.ranga.ramcache.plist.in \
-           Makefile
+           Makefile \
+           README.txt
 
 all:
 	@echo Nothing to do
