@@ -7,7 +7,8 @@ WORKDIR  = work
 FILES    = ramcache.pl \
            org.calalum.ranga.ramcache.plist.in \
            Makefile \
-           README.txt
+           README.txt \
+           LICENSE.txt
 
 all:
 	@echo Nothing to do
